@@ -1,0 +1,4 @@
+对于AI的解释有很多，下面是牛津词典和某阿里云MVP对AI的解释：
+The theory and development of computer systems able to perform tasks normally requiring human intelligence.(–Oxford Dictionary)
+
+Using data to solve problems.(–cy)
